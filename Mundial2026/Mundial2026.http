@@ -1,0 +1,6 @@
+@Mundial2026_HostAddress = http://localhost:5206
+
+GET {{Mundial2026_HostAddress}}/api/stickers/stats
+Accept: application/json
+
+###
